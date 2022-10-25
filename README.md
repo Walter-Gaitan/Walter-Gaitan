@@ -1,5 +1,5 @@
 # 💫 About Me:
-I started my technology path since I was young, studied Telecommunications Network Engineering and became an IT support and later on a QA. I am currently working for Applaudo Studios as a DevOps Engineer.<br>Furthermore, I love traveling, learning new things and playing the guitar.<br>Currently trying to learn Kubernetes, Terraform and different tools used as DevOps
+I started my technology path since I was young, studied Telecommunications Network Engineering and became an IT support and later on, a QA. I am currently working for Applaudo Studios as a DevOps Engineer.<br>Furthermore, I love traveling, learning new things and playing the guitar.<br>Currently trying to learn Kubernetes, Terraform and different tools used as DevOps
 
 
 ## 🌐 Socials:
